@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Design and Artificial Intelligence undergraduate at Singapore University of Technology and Design. Nice to meet you! This here is a collection of my own personal projects as well as projects that I have done for school :)
 <!--
 **skywillow/skywillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
